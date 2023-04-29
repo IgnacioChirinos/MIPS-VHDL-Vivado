@@ -2,6 +2,9 @@
 <a name="br1"></a>The next project has the objective of the creation of a MIPS processor using XILINX and
 VHDL. The final objective for the processor is to perform a matrix multiplication 3x3.
 
+
+<img src="https://github.com/IgnacioChirinos/MIPS-VHDL-Vivado/blob/main/Results/Arquitecture.png"  width="800" height="250">
+
 Each part of the MIPS processor architecture works together to execute instructions. The
 instruction is fetched from the instruction memory and sent to the instruction decoder. The
 instruction decoder determines the operation to be performed and the registers involved, and
