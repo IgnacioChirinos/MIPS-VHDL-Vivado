@@ -3,7 +3,7 @@
 VHDL. The final objective for the processor is to perform a matrix multiplication 3x3.
 
 
-<img src="https://github.com/IgnacioChirinos/MIPS-VHDL-Vivado/blob/main/Results/Arquitecture.png"  width="700" height="250">
+<img src="https://github.com/IgnacioChirinos/MIPS-VHDL-Vivado/blob/main/Results/Arquitecture.png"  width="700" height="300">
 
 Each part of the MIPS processor architecture works together to execute instructions. The
 instruction is fetched from the instruction memory and sent to the instruction decoder. The
